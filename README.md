@@ -6,7 +6,7 @@ Netflix Content Intelligence Dashboard is an interactive Tableau project designe
 
 The dashboard provides insights into content distribution, genres, ratings, countries, release years, and the comparison between Movies and TV Shows.
 
-link:
+link:https://public.tableau.com/app/profile/gowri.shankari1922/viz/NetflixDashboard__17903117976960/Dashboard2?publish=yes
 
 ## 🎯 Objectives
 
